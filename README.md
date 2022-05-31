@@ -1,3 +1,3 @@
 # GitLabs
 
-operação Somar, Subtrair, Mulriplicar
+- operação Somar, Subtrair, Mulriplicar
