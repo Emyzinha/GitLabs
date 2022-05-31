@@ -1,6 +1,7 @@
 # GitLabs
 
 # operação 
--Somar 
--Subtrair 
--Mulriplicar
+- Somar 
+- Subtrair 
+- Mulriplicar
+- Dividir
