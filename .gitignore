@@ -1,0 +1,5 @@
+# o que sera ignorado pelo git 
+bin
+obj
+.vscode
+# eles são gerados altomaticamente por isso não e nessesario mandalo para o repositorio 
